@@ -1,0 +1,1865 @@
+{
+  "properties": [
+    {
+      "id": 70570,
+      "post_name": "4-bedroom-villa-for-rent-in-nam-viet-a-area-da-nang-bb-nhs-dg121",
+      "title": "4 BEDROOM SWIMMING POOL VILLA FOR RENT IN NAM VIET A AREA, DA NANG",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/4-bedroom-villa-for-rent-in-nam-viet-a-area-da-nang-bb-nhs-dg121/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/97ef8f82e37917274e6811.jpg",
+      "fields": {
+        "price": 1300,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "4",
+        "refno": "BB.NHS.DG121",
+        "baths": "5",
+        "space": 502,
+        "land": 350,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/97ef8f82e37917274e6811.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/59bcaf5cd1f725a97ce6.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/1de3c825a4de508009cf19.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/154eabf9c002345c6d132.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/3b1fa994c26f36316f7e1.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/38ae05f6690d9d53c41c9-1.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/d1425b4937b2c3ec9aa317.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/0611114d7db689e8d0a78.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/e5b8cec9a232566c0f2310.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/20e2285945a2b1fce8b35.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/7e3ce60b8bf07fae26e13.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 14,
+            "user_firstname": "Dung",
+            "user_lastname": "Nguyen",
+            "nickname": "Ms. Dung Nguyen",
+            "user_nicename": "ms-dung-nguyen",
+            "display_name": "Dung Nguyen",
+            "user_email": "dung.nguyen@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:43:37",
+            "user_description": "Ms. Dung graduated from Da Nang College of Foreign Languages with a BA in Oriental Studies.\r\n\r\nAs a professional real estate agent, her extensive knowledge of current real estate market can help you whether you are considering renting or purchasing properties.\r\n\r\nShe can speak fluent English, Vietnamese and learning Japanese. She is also very friendly and works efficiently  to present a variety of housing options that meet client’s criteria. She always keeps in regular contact with clients in case there are any questions or issues.",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/DungC-e1616528249935.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "The private villa is peacefully located in Nam Viet A Area. From here, you can reach the beach in just",
+      "latlong": {
+        "address": "Mỹ Đa Tây 2, Khuê Mỹ, Ngũ Hành Sơn, Da Nang, Vietnam",
+        "lat": 16.0346472,
+        "lng": 108.2406245,
+        "zoom": 12,
+        "place_id": "EkJN4bu5IMSQYSBUw6J5IDIsIEtodcOqIE3hu7ksIE5nxakgSMOgbmggU8ahbiwgxJDDoCBO4bq1bmcsIFZpZXRuYW0iLiosChQKEgn3R-QzXxdCMREJfiiXXbMPghIUChIJFz6Du1oXQjERArjf-c-DJD0",
+        "name": "Mỹ Đa Tây 2",
+        "street_name": "Mỹ Đa Tây 2",
+        "state": "Đà Nẵng",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": true,
+      "property_type": [
+        {
+          "term_id": 32,
+          "name": "HOTELS &amp; RESORTS",
+          "slug": "hotels-resorts",
+          "term_group": 0,
+          "term_taxonomy_id": 32,
+          "taxonomy": "property_type",
+          "description": "<p>From luxury brand resorts and oceanfront suites to boutique hotels and charming inns</p>",
+          "parent": 0,
+          "count": 9,
+          "filter": "raw",
+          "term_order": "18"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 91,
+          "name": "Ngu Hanh Son",
+          "slug": "ngu-hanh-son",
+          "term_group": 0,
+          "term_taxonomy_id": 91,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 72,
+          "filter": "raw",
+          "term_order": "49"
+        }
+      ],
+      "features": [
+        {
+          "name": "CABLE TV",
+          "slug": "cable-tv"
+        },
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "SWIMMING POOL",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "GARDEN",
+          "slug": "garden"
+        },
+        {
+          "name": "24/7 ACCESS",
+          "slug": "24-7-access"
+        },
+        {
+          "name": "BALCONY",
+          "slug": "balcony"
+        },
+        {
+          "name": "OUTDOOR AREA",
+          "slug": "outdoor-area"
+        },
+        {
+          "name": "PRIVATE POOL",
+          "slug": "private-swimming-pool"
+        },
+        {
+          "name": "WHOLE BUILDING",
+          "slug": "whole-building"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    },
+    {
+      "id": 70520,
+      "post_name": "four-bedroom-villa-for-rent-ly-van-to-street-da-nang-city-nhs-st-z020",
+      "title": "FOUR BEDROOM VILLA FOR RENT LY VAN TO STREET, DA NANG CITY",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/four-bedroom-villa-for-rent-ly-van-to-street-da-nang-city-nhs-st-z020/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734540280_ff93200995239cb2564047871ff47ea1.jpg",
+      "fields": {
+        "price": 792,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "4",
+        "refno": "BS.ST.Z021",
+        "baths": "4",
+        "space": 120,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734540280_ff93200995239cb2564047871ff47ea1.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734732117_1f0f4ea9eb2ddde09c5771c631a042af.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734338251_e6fd440237bcf2ea5721b35fc02386df.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734401975_1c68d9511348f7c74fdde1483ed9431f.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734407306_830d96f10fb9e858fc32ddc214cc4ef4.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734432653_5a646e804deee2f5f931860766d5ee7b.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734454134_738f391304bdffa31922a9c3052eb5b7.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734500005_c2f0b819d160894ba24f588e59df7645.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734546094_fb377e50b5a00d4b367c66922958a992.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734575284_00bd9aef94fe7f9838f878640a9b36ee.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734603178_9389311520db5a5bc154470fd202b2e7.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734620831_441a89f18a5e252b5f64913ce969bc0a.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734642843_301483d6ca2d787ba7840e6d32c79374.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734656177_76cd6d3ecbb1967e4371cda2da79f549.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734678271_c8d85159d54a31e5bd595813b3fd8f74.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734712201_71b6e2effe0a7aec8dabc3de1a0b99cf.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2615734722592_de93fa809435a25b9ebe61483d34efc6.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 9,
+            "user_firstname": "Huy",
+            "user_lastname": "Hoang",
+            "nickname": "Ms. Huy Hoang",
+            "user_nicename": "ms-hoang-le",
+            "display_name": "Huy Hoang",
+            "user_email": "hoang.le@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:30:07",
+            "user_description": "Hoang graduated from Da Nang University of Economics with a BA in Auditing.\r\n\r\nShe is really passionate about working with both Vietnamese and Foreign clients,  always willing to go an extra mile.\r\n\r\nWith solid economic knowledge, good English skills and never-ending effort, Hoang is a reliable real estate agent to help customers feel the most satisfaction.\r\n\r\nHer motto in business: “Always do your best. What you plant now, you will harvest later”",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/HoangC-e1616528319597.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "A four-bedroom villa for rent in Da Nang is located at Ly Van To street. Ly Van To street is",
+      "latlong": {
+        "address": "Lý Văn Tố, An Hải, An Hải Bắc, Sơn Trà, Da Nang, Vietnam",
+        "lat": 16.0676999,
+        "lng": 108.241256,
+        "zoom": 12,
+        "place_id": "EkVMw70gVsSDbiBU4buRLCBBbiBI4bqjaSBC4bqvYywgU8ahbiBUcsOgLCDEkMOgIE7hurVuZyA1NTAwMDAsIFZpZXRuYW0iLiosChQKEgkXHV0sgRdCMRFrvFyGusHLthIUChIJh_ef4iYYQjER51_271q0GX4",
+        "name": "Lý Văn Tố",
+        "street_name": "Lý Văn Tố",
+        "state": "Đà Nẵng",
+        "post_code": "550000",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 25,
+          "name": "HOUSES &amp; VILLAS",
+          "slug": "houses-villas",
+          "term_group": 0,
+          "term_taxonomy_id": 25,
+          "taxonomy": "property_type",
+          "description": "<p>From beachfront villas and mountain retreats to homes in residential districts, the city, and the countryside</p>",
+          "parent": 0,
+          "count": 87,
+          "filter": "raw",
+          "term_order": "11"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 90,
+          "name": "Son Tra",
+          "slug": "son-tra",
+          "term_group": 0,
+          "term_taxonomy_id": 90,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 56,
+          "filter": "raw",
+          "term_order": "48"
+        }
+      ],
+      "features": [
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "GARAGE",
+          "slug": "garage"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "PET FRIENDLY",
+          "slug": "pet-friendly"
+        },
+        {
+          "name": "WALK TO BEACH",
+          "slug": "walk-to-beach"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    },
+    {
+      "id": 70299,
+      "post_name": "elegant-5-bedroom-riverfront-villa-for-rent-in-hai-chau-da-nang-cc-hc-dg120",
+      "title": "ELEGANT 5 BEDROOM RIVERFRONT VILLA FOR RENT IN HAI CHAU, DA NANG",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/elegant-5-bedroom-riverfront-villa-for-rent-in-hai-chau-da-nang-cc-hc-dg120/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/1e027732359cc1c2988d27-1.jpg",
+      "fields": {
+        "price": 1000,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "5",
+        "refno": "CC.HC.DG120",
+        "baths": "4",
+        "space": 400,
+        "land": 300,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/1e027732359cc1c2988d27.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/158471c5016df533ac7c.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/e1b182baf212064c5f03.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/78dad030939e67c03e8f22.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/0c29f7c8b4664038197724.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/3997bad3f87d0c23556c25.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/a1d20c254f8bbbd5e29a34.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/7a13d83b9a956ecb378428.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/70e1b7abf505015b581419.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/73b6b676f5d8018658c931.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/e4d2fc23bf8d4bd3129c20.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/a5219cc4df6a2b34727b23.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/a26a257967d79389cac632.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/9675455707f9f3a7aae829.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/120f1ee35d4da913f05c21-1.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/8f123b2f79818ddfd49026-1.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 14,
+            "user_firstname": "Dung",
+            "user_lastname": "Nguyen",
+            "nickname": "Ms. Dung Nguyen",
+            "user_nicename": "ms-dung-nguyen",
+            "display_name": "Dung Nguyen",
+            "user_email": "dung.nguyen@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:43:37",
+            "user_description": "Ms. Dung graduated from Da Nang College of Foreign Languages with a BA in Oriental Studies.\r\n\r\nAs a professional real estate agent, her extensive knowledge of current real estate market can help you whether you are considering renting or purchasing properties.\r\n\r\nShe can speak fluent English, Vietnamese and learning Japanese. She is also very friendly and works efficiently  to present a variety of housing options that meet client’s criteria. She always keeps in regular contact with clients in case there are any questions or issues.",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/DungC-e1616528249935.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "This elegant 5 bedroom villa is perfectly located on Thang Long Street, offering a direct view of the Han River,",
+      "latlong": {
+        "address": "Thăng Long, Hòa Cường, Hòa Cường Nam, Hải Châu District, Đà Nẵng, Vietnam",
+        "lat": 16.0296005,
+        "lng": 108.2280342,
+        "zoom": 12,
+        "place_id": "EkFUaMSDbmcgTG9uZywgSMOyYSBDxrDhu51uZyBOYW0sIEjhuqNpIENow6J1LCDEkMOgIE7hurVuZywgVmlldG5hbSIuKiwKFAoSCd1WXBggGkIxEeuKNCuVSySGEhQKEgkZ5ePB7xlCMRHvcv5yT9yPHg",
+        "name": "Thăng Long",
+        "street_name": "Thăng Long",
+        "state": "Đà Nẵng",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": true,
+      "property_type": [
+        {
+          "term_id": 25,
+          "name": "HOUSES &amp; VILLAS",
+          "slug": "houses-villas",
+          "term_group": 0,
+          "term_taxonomy_id": 25,
+          "taxonomy": "property_type",
+          "description": "<p>From beachfront villas and mountain retreats to homes in residential districts, the city, and the countryside</p>",
+          "parent": 0,
+          "count": 87,
+          "filter": "raw",
+          "term_order": "11"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 92,
+          "name": "Hai Chau",
+          "slug": "hai-chau",
+          "term_group": 0,
+          "term_taxonomy_id": 92,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 23,
+          "filter": "raw",
+          "term_order": "50"
+        }
+      ],
+      "features": [
+        {
+          "name": "River View",
+          "slug": "river-view"
+        },
+        {
+          "name": "CABLE TV",
+          "slug": "cable-tv"
+        },
+        {
+          "name": "A/C IN LOUNGE",
+          "slug": "a-c-in-the-lounge"
+        },
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "GARDEN",
+          "slug": "garden"
+        },
+        {
+          "name": "24/7 ACCESS",
+          "slug": "24-7-access"
+        },
+        {
+          "name": "AIR CONDITIONING",
+          "slug": "air-condition"
+        },
+        {
+          "name": "BALCONY",
+          "slug": "balcony"
+        },
+        {
+          "name": "OFF STREET PARKING",
+          "slug": "off-street-parking"
+        },
+        {
+          "name": "ROOFTOP TERRACE",
+          "slug": "rooftop-terrace"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    },
+    {
+      "id": 70298,
+      "post_name": "one-bedroom-house-with-private-swimming-pool-for-rent-in-son-tra-da-nang-bs-st-z019",
+      "title": "ONE BEDROOM HOUSE WITH PRIVATE SWIMMING POOL FOR RENT IN SON TRA, DA NANG.",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/one-bedroom-house-with-private-swimming-pool-for-rent-in-son-tra-da-nang-bs-st-z019/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/212565426_504174457508014_7216719975428969885_n-1.jpg",
+      "fields": {
+        "price": 352,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "1",
+        "refno": "BS.ST.Z020",
+        "baths": "1",
+        "space": 100,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/217155378_504174504174676_1724318473271199270_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/217112600_504174610841332_1212048382664310836_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/215541775_504174707507989_2251545377031795135_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/214275375_504174534174673_5143632443028220960_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/213819715_504174580841335_1824655067025936658_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/212757908_504174630841330_2950354215950334396_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/212565426_504174457508014_7216719975428969885_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/212565426_504174457508014_7216719975428969885_n-1.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/212565326_504174654174661_3670717694937117764_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/202545291_504174440841349_7010999657068521275_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/201792433_504174737507986_2041874653540758573_n.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 9,
+            "user_firstname": "Huy",
+            "user_lastname": "Hoang",
+            "nickname": "Ms. Huy Hoang",
+            "user_nicename": "ms-hoang-le",
+            "display_name": "Huy Hoang",
+            "user_email": "hoang.le@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:30:07",
+            "user_description": "Hoang graduated from Da Nang University of Economics with a BA in Auditing.\r\n\r\nShe is really passionate about working with both Vietnamese and Foreign clients,  always willing to go an extra mile.\r\n\r\nWith solid economic knowledge, good English skills and never-ending effort, Hoang is a reliable real estate agent to help customers feel the most satisfaction.\r\n\r\nHer motto in business: “Always do your best. What you plant now, you will harvest later”",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/HoangC-e1616528319597.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "This one-bedroom villa for rent in Da Nang is located near Nguyen Trong Nghia street. Nguyen Trong Nghia street is",
+      "latlong": {
+        "address": "Nguyễn Trọng Nghĩa, Mân Thái, Sơn Trà, Da Nang, Vietnam",
+        "lat": 16.0876562,
+        "lng": 108.2471907,
+        "zoom": 12,
+        "place_id": "EkROZ3V54buFbiBUcuG7jW5nIE5naMSpYSwgTcOibiBUaMOhaSwgU8ahbiBUcsOgLCDEkMOgIE7hurVuZywgVmlldG5hbSIuKiwKFAoSCeH0tlfyF0IxEcdUE630RxWHEhQKEglPcTCA9BdCMRGwbEUuo7u8BQ",
+        "name": "Nguyễn Trọng Nghĩa",
+        "street_name": "Nguyễn Trọng Nghĩa",
+        "state": "Đà Nẵng",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 25,
+          "name": "HOUSES &amp; VILLAS",
+          "slug": "houses-villas",
+          "term_group": 0,
+          "term_taxonomy_id": 25,
+          "taxonomy": "property_type",
+          "description": "<p>From beachfront villas and mountain retreats to homes in residential districts, the city, and the countryside</p>",
+          "parent": 0,
+          "count": 87,
+          "filter": "raw",
+          "term_order": "11"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 90,
+          "name": "Son Tra",
+          "slug": "son-tra",
+          "term_group": 0,
+          "term_taxonomy_id": 90,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 56,
+          "filter": "raw",
+          "term_order": "48"
+        }
+      ],
+      "features": [
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "GARAGE",
+          "slug": "garage"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "SWIMMING POOL",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "AIR CONDITIONING",
+          "slug": "air-condition"
+        },
+        {
+          "name": "OUTDOOR AREA",
+          "slug": "outdoor-area"
+        },
+        {
+          "name": "PET FRIENDLY",
+          "slug": "pet-friendly"
+        },
+        {
+          "name": "PLAYGROUND",
+          "slug": "playground"
+        },
+        {
+          "name": "PRIVATE POOL",
+          "slug": "private-swimming-pool"
+        },
+        {
+          "name": "WALK TO BEACH",
+          "slug": "walk-to-beach"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    },
+    {
+      "id": 70272,
+      "post_name": "2-bedroom-apartment-for-rent-in-azura-da-nang-special-corner-unit-bb-st-dg119-2",
+      "title": "2 BEDROOM APARTMENT FOR RENT IN AZURA DA NANG- SPECIAL CORNER UNIT",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/2-bedroom-apartment-for-rent-in-azura-da-nang-special-corner-unit-bb-st-dg119-2/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/f8a49b7574d68088d9c76.jpg",
+      "fields": {
+        "price": 1000,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "2",
+        "refno": "BB.ST.DG119",
+        "baths": "2",
+        "space": 150,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/d5910d6ce2cf16914fde2.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/f8a49b7574d68088d9c76.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/016579b69615624b3b045.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/13bc74439be06fbe36f11.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/5c99cd7222d1d68f8fc03.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/5b3f7bd09473602d39624.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 14,
+            "user_firstname": "Dung",
+            "user_lastname": "Nguyen",
+            "nickname": "Ms. Dung Nguyen",
+            "user_nicename": "ms-dung-nguyen",
+            "display_name": "Dung Nguyen",
+            "user_email": "dung.nguyen@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:43:37",
+            "user_description": "Ms. Dung graduated from Da Nang College of Foreign Languages with a BA in Oriental Studies.\r\n\r\nAs a professional real estate agent, her extensive knowledge of current real estate market can help you whether you are considering renting or purchasing properties.\r\n\r\nShe can speak fluent English, Vietnamese and learning Japanese. She is also very friendly and works efficiently  to present a variety of housing options that meet client’s criteria. She always keeps in regular contact with clients in case there are any questions or issues.",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/DungC-e1616528249935.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "Azura is an apartment building located immediately on the Han river on Tran Hung Dao Street, Son Tra District, Da",
+      "latlong": {
+        "address": "339 Đ. Trần Hưng Đạo, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "lat": 16.07187729245313,
+        "lng": 108.22955922949983,
+        "zoom": 18,
+        "place_id": "ChIJM7Ew_C4YQjERcJ9chOlpPkY",
+        "street_number": "339",
+        "street_name": "Đường Trần Hưng Đạo",
+        "street_name_short": "Đ. Trần Hưng Đạo",
+        "state": "Đà Nẵng",
+        "post_code": "550000",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": true,
+      "property_type": [
+        {
+          "term_id": 26,
+          "name": "APARTMENTS &amp; CONDOS",
+          "slug": "apartments-condos",
+          "term_group": 0,
+          "term_taxonomy_id": 26,
+          "taxonomy": "property_type",
+          "description": "<p>Private residences within a building or complex ranging in size from studio to multiple bedrooms often professionally managed with onsite amenities</p>",
+          "parent": 0,
+          "count": 94,
+          "filter": "raw",
+          "term_order": "12"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 90,
+          "name": "Son Tra",
+          "slug": "son-tra",
+          "term_group": 0,
+          "term_taxonomy_id": 90,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 56,
+          "filter": "raw",
+          "term_order": "48"
+        }
+      ],
+      "features": [
+        {
+          "name": "River View",
+          "slug": "river-view"
+        },
+        {
+          "name": "CABLE TV",
+          "slug": "cable-tv"
+        },
+        {
+          "name": "A/C IN LOUNGE",
+          "slug": "a-c-in-the-lounge"
+        },
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "SWIMMING POOL",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "GARDEN",
+          "slug": "garden"
+        },
+        {
+          "name": "24/7 ACCESS",
+          "slug": "24-7-access"
+        },
+        {
+          "name": "AIR CONDITIONING",
+          "slug": "air-condition"
+        },
+        {
+          "name": "GYM",
+          "slug": "gym"
+        },
+        {
+          "name": "BACKUP GENERATOR",
+          "slug": "backup-generator"
+        },
+        {
+          "name": "BALCONY",
+          "slug": "balcony"
+        },
+        {
+          "name": "MOTORBIKE PARKING",
+          "slug": "motorbike-parking"
+        },
+        {
+          "name": "ELEVATOR",
+          "slug": "elevator"
+        },
+        {
+          "name": "OFF STREET PARKING",
+          "slug": "off-street-parking"
+        },
+        {
+          "name": "OUTDOOR AREA",
+          "slug": "outdoor-area"
+        },
+        {
+          "name": "PET FRIENDLY",
+          "slug": "pet-friendly"
+        },
+        {
+          "name": "PLAYGROUND",
+          "slug": "playground"
+        },
+        {
+          "name": "RECEPTION DESK",
+          "slug": "reception-desk"
+        },
+        {
+          "name": "SECURITY",
+          "slug": "security"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    },
+    {
+      "id": 70165,
+      "post_name": "3-bdr-dune-residences-danang-golf-course-villa-for-rent-bs-nhs-t212",
+      "title": "3 BDR. DUNE RESIDENCES DANANG GOLF COURSE VILLA FOR RENT",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/3-bdr-dune-residences-danang-golf-course-villa-for-rent-bs-nhs-t212/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557838380_dbe3df5911ff60f01ad7504791eb2a72.jpg",
+      "fields": {
+        "price": 1600,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "3",
+        "refno": "BS-NHS-T212",
+        "baths": "2",
+        "space": 712,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557840001_a9bd99d3e266039eea5a82a8aa24cbdf.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557832188_de17391a83a7bc0a3939278d30776636.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557832189_9016dc586068b1754dd88e72ae3961ee.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557835966_850aaa4ee6973bec28a76e713f4ef0b4.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557832904_1cbb1a989b2335029d180339031bcc8f.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557838380_dbe3df5911ff60f01ad7504791eb2a72.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557838297_a261ede637d8326b447555f6a1d37b44.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557840002_1df437fbc9338355c6f4123519695b99.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557842133_3e049fe797741b7c832a31f018c67737.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896557845032_07942c1993a918019f760e95251b25f4.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896582973857_0baadd8ca95a2627eea179376252fca6.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896582973861_45ce36d0e7014a0f9f26f09ca059e236.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896582975666_ffb50b885fa96b9b9d36f37f0f4ee7ac.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z1896582976339_1b99987e68e93a12c681e82bfe7af065.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 13,
+            "user_firstname": "Trang",
+            "user_lastname": "Kieu",
+            "nickname": "Ms. Trang Kieu",
+            "user_nicename": "ms-trang-kieu",
+            "display_name": "Trang Kieu",
+            "user_email": "trang.kieu@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:42:10",
+            "user_description": "Ms. Trang graduated from Duy Tan University of Da Nang City with a BA in English Major.\r\n\r\nMs . Trang, originally from Nghe An Province in northern Vietnam  has been living and working in Da Nang for over 10 years . She is really passionate about real estate and enjoys working with both Vietnamese and foreign clients. Ms. Trang specializes in both residential and commercial leasing as well as sales of properties in Da Nang.\r\n\r\nHer extensive experience in customer service over the last 4 years helps her understand client’s needs and expectations and being a swift negotiator with solid market knowledge allows her to close transactions with high degree of efficiency.",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2020/04/TRANG_KIEU-150x190-1.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "3 bedroom Dune villas surrounded by the coastal fairways and water features of The Dunes Course at Danang Beach Resort",
+      "latlong": {
+        "address": "Unnamed Road, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+        "lat": 15.969372354680328,
+        "lng": 108.27702628653793,
+        "zoom": 18,
+        "place_id": "ChIJf1TcJFYQQjERGsL9LT4Q73w",
+        "street_name": "Unnamed Road",
+        "state": "Đà Nẵng",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 25,
+          "name": "HOUSES &amp; VILLAS",
+          "slug": "houses-villas",
+          "term_group": 0,
+          "term_taxonomy_id": 25,
+          "taxonomy": "property_type",
+          "description": "<p>From beachfront villas and mountain retreats to homes in residential districts, the city, and the countryside</p>",
+          "parent": 0,
+          "count": 87,
+          "filter": "raw",
+          "term_order": "11"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 91,
+          "name": "Ngu Hanh Son",
+          "slug": "ngu-hanh-son",
+          "term_group": 0,
+          "term_taxonomy_id": 91,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 72,
+          "filter": "raw",
+          "term_order": "49"
+        }
+      ],
+      "features": [
+        {
+          "name": "CABLE TV",
+          "slug": "cable-tv"
+        },
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "GARAGE",
+          "slug": "garage"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "SWIMMING POOL",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "GARDEN",
+          "slug": "garden"
+        },
+        {
+          "name": "24/7 ACCESS",
+          "slug": "24-7-access"
+        },
+        {
+          "name": "GYM",
+          "slug": "gym"
+        },
+        {
+          "name": "BACKUP GENERATOR",
+          "slug": "backup-generator"
+        },
+        {
+          "name": "BALCONY",
+          "slug": "balcony"
+        },
+        {
+          "name": "CLEANING INCLUDED",
+          "slug": "cleaning-included"
+        },
+        {
+          "name": "MOTORBIKE PARKING",
+          "slug": "motorbike-parking"
+        },
+        {
+          "name": "PET FRIENDLY",
+          "slug": "pet-friendly"
+        },
+        {
+          "name": "SECURITY",
+          "slug": "security"
+        }
+      ]
+    },
+    {
+      "id": 70134,
+      "post_name": "ocean-suites-2-bdr-corner-apartment-for-rent-in-da-nang-bs-nhs-t211",
+      "title": "CORNER 2 BDR APARTMENT FOR RENT IN THE OCEAN SUITES, DA NANG",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/ocean-suites-2-bdr-corner-apartment-for-rent-in-da-nang-bs-nhs-t211/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513503350_8dc4c24b36f1455210db91b2616dc0b2.jpg",
+      "fields": {
+        "price": 950,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "2",
+        "refno": "BS-NHS-t211",
+        "baths": "2",
+        "space": 120,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513497844_e536015235103ec2eb006924c8e01bc5.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513397423_22fbf866dd6788d0791a890308d92675.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513500232_4b47a84be1fd1bd921cac25acefe40af.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513501597_69f803e357b60b89c49f0c76295c5040.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513503350_8dc4c24b36f1455210db91b2616dc0b2.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513505950_36bce15fbd4e6a6195f6bbc4131c9db9.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513510918_9e32e9dcce4c13da818eae000801dfd0.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513513758_abbc09317ac38ac3d9d8f533ef71e162.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513516224_ca634e7fdb85014904a0d23b1babbc97.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513517750_05e0cc71d79565c51933230a8053cfc9.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513529622_a1d6adeeed942519cba1fa43499bb55f.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513507733_153e33d592b75c8ddca971932bc8a4dc.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/z2599513509739_b5161b4f3310ba4fe2f6be437169ec6d.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 13,
+            "user_firstname": "Trang",
+            "user_lastname": "Kieu",
+            "nickname": "Ms. Trang Kieu",
+            "user_nicename": "ms-trang-kieu",
+            "display_name": "Trang Kieu",
+            "user_email": "trang.kieu@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:42:10",
+            "user_description": "Ms. Trang graduated from Duy Tan University of Da Nang City with a BA in English Major.\r\n\r\nMs . Trang, originally from Nghe An Province in northern Vietnam  has been living and working in Da Nang for over 10 years . She is really passionate about real estate and enjoys working with both Vietnamese and foreign clients. Ms. Trang specializes in both residential and commercial leasing as well as sales of properties in Da Nang.\r\n\r\nHer extensive experience in customer service over the last 4 years helps her understand client’s needs and expectations and being a swift negotiator with solid market knowledge allows her to close transactions with high degree of efficiency.",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2020/04/TRANG_KIEU-150x190-1.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "Spacious two-bedroom corner apartment for rent in the Ocean Suites Danang with breathtaking views of the sea! The Apartment include",
+      "latlong": {
+        "address": "Sơn Trà - Điện Ngọc St, Trường Sa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "lat": 15.974023452243252,
+        "lng": 108.28061581359373,
+        "zoom": 17,
+        "place_id": "ChIJ28aqLvwQQjERTawxs07hPCA",
+        "street_name": "Trường Sa",
+        "state": "Đà Nẵng",
+        "post_code": "550000",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 26,
+          "name": "APARTMENTS &amp; CONDOS",
+          "slug": "apartments-condos",
+          "term_group": 0,
+          "term_taxonomy_id": 26,
+          "taxonomy": "property_type",
+          "description": "<p>Private residences within a building or complex ranging in size from studio to multiple bedrooms often professionally managed with onsite amenities</p>",
+          "parent": 0,
+          "count": 94,
+          "filter": "raw",
+          "term_order": "12"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 91,
+          "name": "Ngu Hanh Son",
+          "slug": "ngu-hanh-son",
+          "term_group": 0,
+          "term_taxonomy_id": 91,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 72,
+          "filter": "raw",
+          "term_order": "49"
+        }
+      ],
+      "features": [
+        {
+          "name": "BEACHFRONT",
+          "slug": "beachfront"
+        },
+        {
+          "name": "CABLE TV",
+          "slug": "cable-tv"
+        },
+        {
+          "name": "A/C IN LOUNGE",
+          "slug": "a-c-in-the-lounge"
+        },
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "SWIMMING POOL",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "GARDEN",
+          "slug": "garden"
+        },
+        {
+          "name": "24/7 ACCESS",
+          "slug": "24-7-access"
+        },
+        {
+          "name": "AIR CONDITIONING",
+          "slug": "air-condition"
+        },
+        {
+          "name": "GYM",
+          "slug": "gym"
+        },
+        {
+          "name": "BACKUP GENERATOR",
+          "slug": "backup-generator"
+        },
+        {
+          "name": "CLEANING INCLUDED",
+          "slug": "cleaning-included"
+        },
+        {
+          "name": "MOTORBIKE PARKING",
+          "slug": "motorbike-parking"
+        },
+        {
+          "name": "ELEVATOR",
+          "slug": "elevator"
+        },
+        {
+          "name": "OCEAN VIEW",
+          "slug": "ocean-view"
+        },
+        {
+          "name": "SECURITY",
+          "slug": "security"
+        },
+        {
+          "name": "TENNIS COURT",
+          "slug": "tennis-court"
+        },
+        {
+          "name": "WALK TO BEACH",
+          "slug": "walk-to-beach"
+        }
+      ]
+    },
+    {
+      "id": 70078,
+      "post_name": "commercial-space-for-rent-on-tran-hung-dao-street-da-nang-z018",
+      "title": "TWO FACE PRIME LOCATION COMMERCIAL SPACE FOR RENT ON TRAN HUNG DAO STREET",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/commercial-space-for-rent-on-tran-hung-dao-street-da-nang-z018/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/210524721_500581397867320_6299131753735124097_n.jpg",
+      "fields": {
+        "price": 1075,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "06",
+        "refno": "BS.NHS.Z018",
+        "baths": "06",
+        "space": 300,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/210524721_500581397867320_6299131753735124097_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/210123425_500581444533982_890559538735472403_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/210123425_500581407867319_5163503483439267365_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/209674802_500581504533976_8467239059950969805_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/209349059_500581461200647_5647193353810586896_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/208438416_500581487867311_6404691061752662073_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/jmvzczhywtf5b3wjzvpp.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/hl3o1gqxczl9oytu50s6.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 9,
+            "user_firstname": "Huy",
+            "user_lastname": "Hoang",
+            "nickname": "Ms. Huy Hoang",
+            "user_nicename": "ms-hoang-le",
+            "display_name": "Huy Hoang",
+            "user_email": "hoang.le@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:30:07",
+            "user_description": "Hoang graduated from Da Nang University of Economics with a BA in Auditing.\r\n\r\nShe is really passionate about working with both Vietnamese and Foreign clients,  always willing to go an extra mile.\r\n\r\nWith solid economic knowledge, good English skills and never-ending effort, Hoang is a reliable real estate agent to help customers feel the most satisfaction.\r\n\r\nHer motto in business: “Always do your best. What you plant now, you will harvest later”",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/HoangC-e1616528319597.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "The commercial space is conveniently located on Tran Hung Dao and Cao Ba Quat Street, Da Nang. Tran Hung Dao",
+      "latlong": {
+        "address": "433 Đường Trần Hưng Đạo, An Hải, An Hải Tây, Sơn Trà, Da Nang, Vietnam",
+        "lat": 16.0649949,
+        "lng": 108.2300325,
+        "zoom": 15,
+        "place_id": "ChIJ--Px6ywYQjERBpsatrgz5Sg",
+        "name": "433 Đ. Trần Hưng Đạo",
+        "street_number": "433",
+        "street_name": "Đường Trần Hưng Đạo",
+        "street_name_short": "Đ. Trần Hưng Đạo",
+        "state": "Đà Nẵng",
+        "post_code": "550000",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 82,
+          "name": "RETAIL",
+          "slug": "retail",
+          "term_group": 0,
+          "term_taxonomy_id": 82,
+          "taxonomy": "property_type",
+          "description": "<p>Retail space for every type of tenant from shopping malls with food courts and movie theatres, to single unit storefronts, luxury showrooms, and more</p>",
+          "parent": 0,
+          "count": 13,
+          "filter": "raw",
+          "term_order": "16"
+        },
+        {
+          "term_id": 33,
+          "name": "OTHER COMMERCIAL &amp; SPECIAL PURPOSE",
+          "slug": "other-commercials",
+          "term_group": 0,
+          "term_taxonomy_id": 33,
+          "taxonomy": "property_type",
+          "description": "",
+          "parent": 0,
+          "count": 16,
+          "filter": "raw",
+          "term_order": "20"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 91,
+          "name": "Ngu Hanh Son",
+          "slug": "ngu-hanh-son",
+          "term_group": 0,
+          "term_taxonomy_id": 91,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 72,
+          "filter": "raw",
+          "term_order": "49"
+        }
+      ],
+      "features": [
+        {
+          "name": "River View",
+          "slug": "river-view"
+        },
+        {
+          "name": "MAIN STREET",
+          "slug": "main-street"
+        },
+        {
+          "name": "MOUNTAIN VIEW",
+          "slug": "mountains-view"
+        },
+        {
+          "name": "ROOFTOP TERRACE",
+          "slug": "rooftop-terrace"
+        },
+        {
+          "name": "WHOLE BUILDING",
+          "slug": "whole-building"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    },
+    {
+      "id": 70018,
+      "post_name": "restaurant-for-rent-in-ho-nghinh-street-da-nang-bs-st-t210",
+      "title": "RESTAURANT FOR RENT IN HO NGHINH STREET, DA NANG",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/restaurant-for-rent-in-ho-nghinh-street-da-nang-bs-st-t210/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/47575661_720726488310787_5200065923452502016_n.jpg",
+      "fields": {
+        "price": 1080,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "1",
+        "refno": "BS.ST.T210",
+        "baths": "4",
+        "space": 122,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/72583039_915133552203412_5173682983030226944_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/72587263_915133632203404_3973394337110163456_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/getlstd-property-photo.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/72392211_915133505536750_6346862662961332224_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/69381741_882672418782859_5137980092424650752_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/69272509_876968326019935_2348189054585012224_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/67307822_858351537881614_4277423771935047680_n-1.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/67188364_858347244548710_3180850322696306688_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/47575661_720726488310787_5200065923452502016_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/67307822_858351537881614_4277423771935047680_n.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 13,
+            "user_firstname": "Trang",
+            "user_lastname": "Kieu",
+            "nickname": "Ms. Trang Kieu",
+            "user_nicename": "ms-trang-kieu",
+            "display_name": "Trang Kieu",
+            "user_email": "trang.kieu@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:42:10",
+            "user_description": "Ms. Trang graduated from Duy Tan University of Da Nang City with a BA in English Major.\r\n\r\nMs . Trang, originally from Nghe An Province in northern Vietnam  has been living and working in Da Nang for over 10 years . She is really passionate about real estate and enjoys working with both Vietnamese and foreign clients. Ms. Trang specializes in both residential and commercial leasing as well as sales of properties in Da Nang.\r\n\r\nHer extensive experience in customer service over the last 4 years helps her understand client’s needs and expectations and being a swift negotiator with solid market knowledge allows her to close transactions with high degree of efficiency.",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2020/04/TRANG_KIEU-150x190-1.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "Restaurant for Lease in Da Nang, Vietnam The Restaurant building is conveniently located on Ho Nghinh street, Da Nang city.",
+      "latlong": {
+        "address": "254 Hồ Nghinh, Phước Mỹ, Sơn Trà, Da Nang, Vietnam",
+        "lat": 16.0658314,
+        "lng": 108.2431191,
+        "zoom": 12,
+        "place_id": "ChIJtXEAZYEXQjER9Z3ikHADfwI",
+        "name": "254 Hồ Nghinh",
+        "street_number": "254",
+        "street_name": "Hồ Nghinh",
+        "state": "Đà Nẵng",
+        "post_code": "550000",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 82,
+          "name": "RETAIL",
+          "slug": "retail",
+          "term_group": 0,
+          "term_taxonomy_id": 82,
+          "taxonomy": "property_type",
+          "description": "<p>Retail space for every type of tenant from shopping malls with food courts and movie theatres, to single unit storefronts, luxury showrooms, and more</p>",
+          "parent": 0,
+          "count": 13,
+          "filter": "raw",
+          "term_order": "16"
+        },
+        {
+          "term_id": 33,
+          "name": "OTHER COMMERCIAL &amp; SPECIAL PURPOSE",
+          "slug": "other-commercials",
+          "term_group": 0,
+          "term_taxonomy_id": 33,
+          "taxonomy": "property_type",
+          "description": "",
+          "parent": 0,
+          "count": 16,
+          "filter": "raw",
+          "term_order": "20"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 22,
+          "name": "Commercial",
+          "slug": "commercials-and-development-land",
+          "term_group": 0,
+          "term_taxonomy_id": 22,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 23,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 90,
+          "name": "Son Tra",
+          "slug": "son-tra",
+          "term_group": 0,
+          "term_taxonomy_id": 90,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 56,
+          "filter": "raw",
+          "term_order": "48"
+        }
+      ],
+      "features": [
+        {
+          "name": "BEACHFRONT",
+          "slug": "beachfront"
+        },
+        {
+          "name": "A/C IN LOUNGE",
+          "slug": "a-c-in-the-lounge"
+        },
+        {
+          "name": "CAR PARKING",
+          "slug": "car-parking"
+        },
+        {
+          "name": "ROOFTOP TERRACE",
+          "slug": "rooftop-terrace"
+        },
+        {
+          "name": "WALK TO BEACH",
+          "slug": "walk-to-beach"
+        }
+      ]
+    },
+    {
+      "id": 69954,
+      "post_name": "the-point-golf-course-villa-3bdr-with-pink-book-for-sale-in-da-nang-bs-nhs-z017",
+      "title": "THE POINT GOLF COURSE VILLA 3BDR WITH PINK BOOK FOR SALE IN DA NANG",
+      "link": "http://centralvietnamrealty.noinputsignal.com/property/the-point-golf-course-villa-3bdr-with-pink-book-for-sale-in-da-nang-bs-nhs-z017/",
+      "thumb": "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/205535087_497719988153461_3013587467883394434_n.jpg",
+      "fields": {
+        "price": 616000,
+        "rent_price": 0,
+        "price_description": "",
+        "location": null,
+        "bedrooms": "3",
+        "refno": "BS.NHS.Z017",
+        "baths": "3",
+        "space": 280,
+        "land": 0,
+        "gallery": [
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/205535087_497719988153461_3013587467883394434_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/205089779_497719841486809_3690864684986046724_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/204676816_497725604819566_6797794034277830720_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/206480492_497725614819565_7769239573633232648_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/204776796_497719968153463_6469469078709996201_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/210902121_497725648152895_4991048987787220569_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/204676878_497719934820133_2605009736370910153_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/204816080_497720098153450_4655639586907165634_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/205238052_497720138153446_5336037937597869381_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/205263127_497719924820134_3812719096008924994_n.jpg",
+          "http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/07/205328791_497720048153455_2450293322241075156_n.jpg"
+        ],
+        "agents": [
+          {
+            "ID": 9,
+            "user_firstname": "Huy",
+            "user_lastname": "Hoang",
+            "nickname": "Ms. Huy Hoang",
+            "user_nicename": "ms-hoang-le",
+            "display_name": "Huy Hoang",
+            "user_email": "hoang.le@cvr.com.vn",
+            "user_url": "",
+            "user_registered": "2020-04-28 08:30:07",
+            "user_description": "Hoang graduated from Da Nang University of Economics with a BA in Auditing.\r\n\r\nShe is really passionate about working with both Vietnamese and Foreign clients,  always willing to go an extra mile.\r\n\r\nWith solid economic knowledge, good English skills and never-ending effort, Hoang is a reliable real estate agent to help customers feel the most satisfaction.\r\n\r\nHer motto in business: “Always do your best. What you plant now, you will harvest later”",
+            "user_avatar": "<img data-del=\"avatar\" alt='' src='http://centralvietnamrealty.noinputsignal.com/app/uploads/2021/03/HoangC-e1616528319597.jpg' class='avatar pp-user-avatar avatar-96 photo ' height='96' width='96'/>"
+          }
+        ]
+      },
+      "excerpt": "The Point Residences is located right on the beach site on the Truong Sa street. All villas are designed perfectly",
+      "latlong": {
+        "address": "The Point Villa, Trường Sa, Street, Hoa Hai, Ngũ Hành Sơn, Da Nang, Vietnam",
+        "lat": 15.9789155,
+        "lng": 108.2761834,
+        "zoom": 12,
+        "place_id": "ChIJK1B13_oQQjER5jUE0Wa_LZc",
+        "name": "The Point Villa",
+        "street_name": "Trường Sa",
+        "state": "Đà Nẵng",
+        "post_code": "550000",
+        "country": "Vietnam",
+        "country_short": "VN"
+      },
+      "transaction_type": [
+        {
+          "term_id": 38,
+          "name": "Rent",
+          "slug": "rent",
+          "term_group": 0,
+          "term_taxonomy_id": 38,
+          "taxonomy": "transaction_type",
+          "description": "",
+          "parent": 0,
+          "count": 110,
+          "filter": "raw",
+          "term_order": "4"
+        }
+      ],
+      "new": false,
+      "property_type": [
+        {
+          "term_id": 25,
+          "name": "HOUSES &amp; VILLAS",
+          "slug": "houses-villas",
+          "term_group": 0,
+          "term_taxonomy_id": 25,
+          "taxonomy": "property_type",
+          "description": "<p>From beachfront villas and mountain retreats to homes in residential districts, the city, and the countryside</p>",
+          "parent": 0,
+          "count": 87,
+          "filter": "raw",
+          "term_order": "11"
+        }
+      ],
+      "offer_type": [
+        {
+          "term_id": 21,
+          "name": "Residential",
+          "slug": "residential-and-developments",
+          "term_group": 0,
+          "term_taxonomy_id": 21,
+          "taxonomy": "offer_type",
+          "description": "",
+          "parent": 0,
+          "count": 150,
+          "filter": "raw",
+          "term_order": "3"
+        }
+      ],
+      "location": [
+        {
+          "term_id": 87,
+          "name": "Da Nang",
+          "slug": "da-nang",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 0,
+          "count": 155,
+          "filter": "raw",
+          "term_order": "2"
+        },
+        {
+          "term_id": 91,
+          "name": "Ngu Hanh Son",
+          "slug": "ngu-hanh-son",
+          "term_group": 0,
+          "term_taxonomy_id": 91,
+          "taxonomy": "location",
+          "description": "",
+          "parent": 87,
+          "count": 72,
+          "filter": "raw",
+          "term_order": "49"
+        }
+      ],
+      "features": [
+        {
+          "name": "FURNISHED",
+          "slug": "furnished"
+        },
+        {
+          "name": "SWIMMING POOL",
+          "slug": "swimming-pool"
+        },
+        {
+          "name": "GARDEN",
+          "slug": "garden"
+        },
+        {
+          "name": "24/7 ACCESS",
+          "slug": "24-7-access"
+        },
+        {
+          "name": "AIR CONDITIONING",
+          "slug": "air-condition"
+        },
+        {
+          "name": "LAUNDRY",
+          "slug": "laundry"
+        },
+        {
+          "name": "OUTDOOR AREA",
+          "slug": "outdoor-area"
+        },
+        {
+          "name": "PET FRIENDLY",
+          "slug": "pet-friendly"
+        },
+        {
+          "name": "PLAYGROUND",
+          "slug": "playground"
+        },
+        {
+          "name": "PRIVATE POOL",
+          "slug": "private-swimming-pool"
+        },
+        {
+          "name": "SECURITY",
+          "slug": "security"
+        },
+        {
+          "name": "WALK TO BEACH",
+          "slug": "walk-to-beach"
+        },
+        {
+          "name": "WIFI",
+          "slug": "wifi"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "count": 173
+}
